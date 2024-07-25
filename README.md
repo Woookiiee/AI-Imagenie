@@ -14,5 +14,7 @@ An innovative website to generate images by giving a prompt and uploadint it in 
    to run - npm run dev
 
 # Server side
-  1. npm install mongoose dotenv nodemon cors cloudinary openai express
+  1. Should have nodejs installed
+  2. in terminal - 
+   npm install mongoose dotenv nodemon cors cloudinary openai express
    
